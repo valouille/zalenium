@@ -1,6 +1,6 @@
 name: zalenium
-version: 3.141.59
-appVersion: 3.141.59
+version: 3.141.59t
+appVersion: 3.141.59t
 description: Chart for selenium grid
 keywords:
   - qa
