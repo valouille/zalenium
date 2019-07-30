@@ -1,7 +1,7 @@
 apiVersion: v1
 entries:
   zalenium:
-  - appVersion: 3.141.59
+  - appVersion: 3.141.59t
     created: 2019-03-14T15:03:33.384156+11:00
     description: Chart for selenium grid
     digest: 81e9690407ee7cd6345f41efff5c09928d69555acf8a2aad93b0de70117a0680
@@ -17,5 +17,5 @@ entries:
     - https://github.com/zalando/zalenium
     urls:
     - zalenium-3.141.59t.tgz
-    version: 3.141.59
+    version: 3.141.59t
 generated: 2019-03-14T15:03:33.383116+11:00
