@@ -4,9 +4,9 @@ appVersion: 3.141.59t
 description: Chart for selenium grid
 keywords:
   - qa
-home: https://github.com/zalando/zalenium
+home: https://github.com/valouille/zalenium
 sources:
-  - https://github.com/zalando/zalenium
+  - https://github.com/valouille/zalenium
 maintainers:
   - name: diemol
     email: diemol@gmail.com
